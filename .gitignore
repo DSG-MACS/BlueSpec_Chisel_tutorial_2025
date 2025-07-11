@@ -2,4 +2,7 @@
 *.bo
 *.ba
 *.o
+*.so
+build_b_sim/
+mkTop_b_sim
 README.html
