@@ -6,3 +6,7 @@
 build_b_sim/
 mkTop_b_sim
 README.html
+
+# Verilog gitignore
+build_v/
+verilog_dir/
