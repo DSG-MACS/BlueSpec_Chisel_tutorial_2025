@@ -7,3 +7,20 @@ In this DSG session, we will give an introduction to Bluespec and Chisel, two mo
 
 ## Tutorial video: 
 [![DSG_TUTORIAL](https://i.ytimg.com/vi/m7ffjc3KdRg/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbqV_HzH1hPKRAbIdaZUmhxvXd2Q)](https://www.youtube.com/watch?v=m7ffjc3KdRg)
+
+## Bluespec build tutorial
+### 1. Install BSC
+- https://github.com/B-Lang-org/bsc/blob/main/INSTALL.md
+
+### 2. Install iverilog
+- https://steveicarus.github.io/iverilog/usage/installation.html
+
+### 3. Compile to BSV pipeline to verilog
+```
+cd BlueSpec/Pipeline
+make verilog
+```
+### 4. View verilog output 
+```
+cat verilog_dir/mkTop.v
+```
