@@ -1,2 +1,5 @@
-# Abstract
+## Abstract
 In this DSG session, we will give an introduction to Bluespec and Chisel, two modern Hardware Description Languages (HDLs) that utilise the power of functional programming. Our goal is to provide a non-technical hardware audience with the basic knowledge needed to use these languages, alongside fundamental hardware design principles. Hands-on demos will be included, starting from a basic combinational adder circuit to a pipelined hardware design that integrates multiple hardware modules.
+
+## Tutorial video: 
+[![DSG_TUTORIAL](https://i.ytimg.com/vi/m7ffjc3KdRg/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbqV_HzH1hPKRAbIdaZUmhxvXd2Q)](https://www.youtube.com/watch?v=m7ffjc3KdRg)
