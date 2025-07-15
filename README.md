@@ -15,12 +15,19 @@ In this DSG session, we will give an introduction to Bluespec and Chisel, two mo
 ### 2. Install iverilog
 - https://steveicarus.github.io/iverilog/usage/installation.html
 
-### 3. Compile to BSV pipeline to verilog
+### 3. Compile to BSV pipeline to Verilog
 ```
 cd BlueSpec/Pipeline
 make verilog
 ```
-### 4. View verilog output 
+### 4. View Verilog output 
 ```
 cat verilog_dir/mkTop.v
 ```
+
+## Resources
+1. Visualise digital circuits from Verilog files online: https://digitaljs.tilk.eu/
+2. Better in depth explination of Bluespec:
+   - Introduction: https://www.youtube.com/watch?v=7JffUcHnaDY
+   - RISCV Bluespec: https://www.youtube.com/watch?v=6G0xsL1lmrg
+   - Describing Combinational Circuits in BSV: https://www.youtube.com/watch?v=2gv39yQqK9g
