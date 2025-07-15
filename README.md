@@ -27,7 +27,7 @@ cat verilog_dir/mkTop.v
 
 ## Resources
 1. Visualise digital circuits from Verilog files online: https://digitaljs.tilk.eu/
-2. Better in depth explination of Bluespec:
+2. Better in-depth explaination of Bluespec:
    - Introduction: https://www.youtube.com/watch?v=7JffUcHnaDY
    - RISCV Bluespec: https://www.youtube.com/watch?v=6G0xsL1lmrg
    - Describing Combinational Circuits in BSV: https://www.youtube.com/watch?v=2gv39yQqK9g
